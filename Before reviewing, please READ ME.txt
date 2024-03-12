@@ -1,0 +1,8 @@
+Hello, 
+
+due to the fact that the node_modules file is very heavy,
+I had to remove it.
+
+Before opening the code in the browser,
+you must execute the command in the terminal "npm install" and then "npm start".
+
